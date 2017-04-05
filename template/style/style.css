@@ -1,0 +1,24 @@
+body {
+    margin: 0 auto;
+}
+
+header {
+    height: 100px;
+    background: linear-gradient(to bottom right, #1e28e6,#c2c2f9);
+}
+
+header h1 {
+    display: inline;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #eeee;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+
+[id*="user"] {
+    display: run-in;
+    background: linear-gradient(to right, #4ab6ed, white);
+    padding-left: 25px;
+}
